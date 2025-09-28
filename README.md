@@ -1,4 +1,4 @@
-# Get Started
+# NAC: Neural Network Automatic Chain Compressor
 ![framework overview](framework%20overview.png "NAC Framework Overview")
 ## Requirements
 For standard use of NAC, please prepare the required environment, datasets and models.
