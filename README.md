@@ -1,7 +1,7 @@
 # NAC: Neural Network Automatic Chain Compressor
 ![framework overview](framework%20overview.png "NAC Framework Overview")
 ## Requirements
-For standard use of NAC, please prepare the required environment, datasets and models.
+For standard use of NAC, please prepare the required environment, datasets and models. [**Video Demo for Setup and Quick Start:**](https://drive.google.com/drive/folders/1rgWMvxErqMlwjjRjwlPPJuq9FJVp9hC9?usp=sharing)
 ### Environment
 Use the following code to start and complete the configuration of the virtual environment:
 
