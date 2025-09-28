@@ -117,7 +117,7 @@ Optimal compression strategies obtained by Compression Space Search with post-fi
 |             | cifar100      | QQEPPF           | 69.00   | 1.60     | 34.19   | 8.37   | 25.00      |
 |             | tiny-imagenet | QEPQF            | 56.50   | -1.10    | 35.06   | 8.18   | 46.00      |
 
-# Custom model compression
+## Custom model compression
 To compress your own model with NAC, you need to make sure your model is compatible with the compression pipeline.
 This requires minimal changes to your original model code. Below we describe the general steps, using MobileViT as an example.
 1. Inherit from Comp_Base class
