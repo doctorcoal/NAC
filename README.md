@@ -57,12 +57,6 @@ for path in paths:
     
 rmdir('./val/images')
 ```
-## Quick Start
-After everything has been installed, you can use the following command to start compressing pretrained ResNet34 model on cifar10 with NAC to verify if the environment is configured properly.
-
-```
-CUDA_VISIBLE_DEVICES=0 python main.py --model resnet_exit_quant --dataset cifar10 --arinc --suffix t1
-```
 ## Conducting NAC on pre-trained models
 Choose from following commands to apply NAC to our pretrained models.
 
